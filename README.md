@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Damian!
+🗺️ GIS Analyst sharing about my journey and learnings in Tech!<br/>
+📊 Currently Studying [Data Analytics](https://www.fanshawec.ca/programs/daa1-data-analytics/next) at Fanshawe College, Ontario<br/>
+
 
 <!--
 **Damianrheal/Damianrheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
